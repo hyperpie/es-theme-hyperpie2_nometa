@@ -144,7 +144,7 @@ version         1.0
    <view name="detailed">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <pos>0.8225 0.235</pos>
+         <pos>0.755 0.235</pos>
          <maxSize>0.15 0.15</maxSize>
       </image>
       <image name="md_image">
