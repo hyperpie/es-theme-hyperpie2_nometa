@@ -102,8 +102,8 @@ version         1.0
       <rating name="md_rating">
          <pos>1.77 0.4</pos>
          <size>0.005 0.025</size>
-         <filledPath>./_inc/images/star_filled.svg</filledPath>
-         <unfilledPath>./_inc/images/star_empty.svg</unfilledPath>
+         <filledPath>./_inc/images/star_filled.png</filledPath>
+         <unfilledPath>./_inc/images/star_empty.png</unfilledPath>
       </rating>
       <text name="md_lbl_players">
          <pos>1.77 0.425</pos>
